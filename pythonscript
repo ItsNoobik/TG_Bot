@@ -3,7 +3,7 @@ import schedule
 import time
 import threading
 
-bot = telebot.TeleBot("7751489166:AAEp0y6daqWAB2RqYKWF7g8slv9HVK6Db64")
+bot = telebot.TeleBot("7751489166:AAHMlHIunadqyaM3tBWEotL-myQ81_ZOolk")
 YOUR_TELEGRAM_ID = 5888075510
 
 @bot.message_handler(commands=['start'])
